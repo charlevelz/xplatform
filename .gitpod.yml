@@ -1,8 +1,8 @@
-tasks:
-  - init: 
-      docker-compose pull
-  - command: |
-      docker-compose up
+# tasks:
+#   - init: 
+#       docker-compose pull
+#   - command: |
+#       docker-compose up
 
 vscode:
   extensions:
